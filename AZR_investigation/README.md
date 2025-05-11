@@ -123,4 +123,4 @@ def solver_reward(pred: Any, gold: Any) -> float:
 2. **Diversity**: Use in-context examples to avoid task repetition.
 3. **Monitoring**: Track token lengths and safety flags during training.
 
-By following this guide, you can replicate AZR’s self-play loop and achieve state-of-the-art reasoning without human data. For full details, refer to the paper’s [code](https://github.com/author/AZR) and appendix.
+By following this guide, you can replicate AZR’s self-play loop and achieve state-of-the-art reasoning without human data. For full details, refer to the paper’s [code](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner) and appendix.
