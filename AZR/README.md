@@ -1,3 +1,5 @@
+This is a research project on AZR
+
 ### **Absolute Zero Reasoner (AZR) Tutorial**
 
 #### **Overview**
